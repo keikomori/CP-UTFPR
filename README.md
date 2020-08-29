@@ -1,4 +1,3 @@
-# CP-UTFPR
 # Engenharia de Computação - UTFPR Pato Branco
 Materiais diversos de algumas disciplinas cursadas no curso de Engenharia de Computação - UTFPR Pato Branco
 
