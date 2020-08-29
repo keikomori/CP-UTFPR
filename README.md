@@ -13,4 +13,4 @@ Tais, o uso do Fork.
 
 #### :page_facing_up: License
 
-[MIT LICENSE](https://github.com/keikomori/Jogo-General/blob/master/LICENSE)
+[MIT LICENSE](https://github.com/keikomori/)
