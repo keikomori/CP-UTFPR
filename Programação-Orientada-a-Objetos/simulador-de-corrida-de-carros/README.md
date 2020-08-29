@@ -1,4 +1,4 @@
-# Simulador de Corrida de Carros
+# :oncoming_automobile: Simulador de Corrida de Carros
 
 Um simulador de corrida de veículos irá controlar veículos do tipo bicicleta, motocicleta, carro popular e Ferrari através de seu centro de comandos. Os veículos estarão competindo no estilo corrida.
 Cada veículo criado possuirá uma identiﬁcação única (que deverá ser gerada automaticamente), uma quantidade de rodas e uma quantidade de combustível (para aqueles que possuem motor).
@@ -10,7 +10,7 @@ Os veículos se movem sempre na horizontal da esquerda para direita de acordo co
 * carro popular: de cinco em cinco traços,
 * ferrari: de dez em dez traços.
 
-### Requisitos do aplicativo
+### :scroll: Requisitos do aplicativo
 
 * Menu iterativo que permita ao usuário simular uma **Corrida de Carros**.
 * Deve ser possível incluir até 20 veículos.
@@ -50,7 +50,7 @@ Os veículos se movem sempre na horizontal da esquerda para direita de acordo co
 10. Sair da aplicação
 
 
-### Detalhamento de itens avaliados atendidos
+### :page_with_curl: Detalhamento de itens avaliados atendidos
 
 - [x] Respeitar o princípio do encapsulamento de dados
 - [x] Usar modificadores de acesso adequados (private e public)
@@ -66,11 +66,5 @@ Os veículos se movem sempre na horizontal da esquerda para direita de acordo co
 - [x] O aplicativo não deve travar em tempo de execução
 - [x] Seguir o diagrama UML
 
-### Desenvolvedor:
+### :desktop_computer: Desenvolvedor:
 * Tatiany Keiko Mori
-
-
-
-
-
-
