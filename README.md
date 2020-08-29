@@ -13,4 +13,4 @@ Tais, o uso do Fork.
 
 #### :page_facing_up: License
 
-[MIT LICENSE](https://github.com/keikomori/)
+[MIT LICENSE](https://github.com/keikomori/CP-UTFPR/blob/master/LICENSE)
