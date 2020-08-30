@@ -43,7 +43,7 @@ Na forma  “Little Endian”, as instruções da linguagem assembly para seleci
 
 No formato "Big Endian", com o byte de alta ordem em primeiro lugar, você sempre pode testar se o número é positivo ou negativo observando o byte no deslocamento zero. Você não precisa saber quanto tempo o número é, nem precisa pular nenhum bytes para encontrar o byte que contém as informações do sinal. Os números também são armazenados na ordem em que são impressos; portanto, as rotinas binárias e decimais são particularmente eficientes.
 
-
+###### Ainda faltam materiais a serem colocados
 
 
 
