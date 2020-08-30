@@ -1,4 +1,4 @@
-# 	:family_man_boy: Chamadas de sistema
+# 	:telephone_receiver: Chamadas de sistema
 
 Em computação, uma chamada de sistema (system call) é o mecanismo programático pelo qual um programa de computador solicita um serviço do núcleo do sistema operacional sobre o qual ele está sendo executado. Isto pode incluir serviços relacionados ao hardware (por exemplo, acessar uma unidade de disco rígido), criação e execução de novos processos e comunicação com serviços do núcleo de maneira integral como escalonamento do processador. Chamadas do sistema fornecem uma interface essencial entre um processo e o sistema operacional.
 ###### [referência: função wait()](https://pt.wikipedia.org/wiki/Chamada_de_sistema)
