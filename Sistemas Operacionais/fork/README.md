@@ -1,5 +1,15 @@
-# :notebook: Exercício utilizando as chamadas de sistema:
+## :notebook: Exercício utilizando as chamadas de sistema:
 * fork(), wait(), exit(), getpid() e getppid()
+
+#### Gerando a seguinte árvore:
+        T
+       _|_
+      |   |
+      A   Y
+      |
+      I
+      |
+      N
 
 #### Chamadas de sistema
 
@@ -52,16 +62,6 @@ Retorna o ID do processo do pai do processo de chamada. Se o processo de chamada
 Retorna o ID do processo do processo de chamada. Isso é frequentemente usado por rotinas que geram nomes de arquivos temporários exclusivos.
 ###### [referência: função getpid()](https://www.geeksforgeeks.org/getppid-getpid-linux/)
  
-#### Gerando a seguinte árvore:
-        T
-       _|_
-      |   |
-      A   Y
-      |
-      I
-      |
-      N
-
 ### 	:page_facing_up: License
 
 MIT [LICENSE](https://github.com/keikomori/)
