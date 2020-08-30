@@ -6,14 +6,14 @@
 * fork(), wait(), exit(), getpid() e getppid()
  
 #### Gerando a seguinte árvore:
-			T
-		   _|_
-          |   |
-	      A   Y
-          |
-	      I
-	      |
-	      N
+        T
+       _|_
+      |   |
+      A   Y
+      |
+      I
+      |
+      N
 
 ### 	:page_facing_up: License
 
