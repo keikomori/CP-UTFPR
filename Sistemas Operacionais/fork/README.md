@@ -1,7 +1,7 @@
 # 	:telephone_receiver: Chamadas de sistema
 
 Em computação, uma chamada de sistema (system call) é o mecanismo programático pelo qual um programa de computador solicita um serviço do núcleo do sistema operacional sobre o qual ele está sendo executado. Isto pode incluir serviços relacionados ao hardware (por exemplo, acessar uma unidade de disco rígido), criação e execução de novos processos e comunicação com serviços do núcleo de maneira integral como escalonamento do processador. Chamadas do sistema fornecem uma interface essencial entre um processo e o sistema operacional.
-###### [referência: função wait()](https://pt.wikipedia.org/wiki/Chamada_de_sistema)
+###### [referência: chamadas de sistema](https://pt.wikipedia.org/wiki/Chamada_de_sistema)
 
 #### Função fork()
 A função fork é uma função que duplica o processo atual dentro do sistema operacional. O processo que inicialmente chamou a função fork é chamado de processo pai. O novo processo criado pela função fork é chamado de processo filho. Todas as áreas do processo são duplicadas dentro do sistema operacional (código, dados, pilha, memória dinâmica).
