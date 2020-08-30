@@ -1,4 +1,7 @@
-# 	:telephone_receiver: Chamadas de sistema
+# :notebook: Exercício utilizando as chamadas de sistema:
+* fork(), wait(), exit(), getpid() e getppid()
+
+#### Chamadas de sistema
 
 Em computação, uma chamada de sistema (system call) é o mecanismo programático pelo qual um programa de computador solicita um serviço do núcleo do sistema operacional sobre o qual ele está sendo executado. Isto pode incluir serviços relacionados ao hardware (por exemplo, acessar uma unidade de disco rígido), criação e execução de novos processos e comunicação com serviços do núcleo de maneira integral como escalonamento do processador. Chamadas do sistema fornecem uma interface essencial entre um processo e o sistema operacional.
 ###### [referência: chamadas de sistema](https://pt.wikipedia.org/wiki/Chamada_de_sistema)
@@ -48,9 +51,6 @@ Retorna o ID do processo do pai do processo de chamada. Se o processo de chamada
 #### Função getpid()
 Retorna o ID do processo do processo de chamada. Isso é frequentemente usado por rotinas que geram nomes de arquivos temporários exclusivos.
 ###### [referência: função getpid()](https://www.geeksforgeeks.org/getppid-getpid-linux/)
-
-#### Exercício utilizando as chamadas de sistema:
-* fork(), wait(), exit(), getpid() e getppid()
  
 #### Gerando a seguinte árvore:
         T
