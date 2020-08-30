@@ -1,7 +1,12 @@
 /*
-~Disciplina: Sistemas Operacionais
-~Acadêmica: Tatiany Keiko Mori
-Trabalho 1 - Usando as chamadas de sistema fork(), wait(), exit(), getpid() e getppid()
+Universidade Tecnológica Federal do Paraná CAMPUS Pato Branco
+	~Disciplina: Sistemas Operacionais
+	~Acadêmica: Tatiany Keiko Mori
+
+	Trabalho 1:
+	Uso das chamadas de sistema:
+		fork(), wait(), exit(), getpid() e getppid()
+ 
  - Gerando a seguinte árvore:
 			T
 		   _|_
