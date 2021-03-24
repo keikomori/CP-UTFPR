@@ -1,0 +1,1855 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                              ./tarefas.o (GPIOPadConfigSet)
+C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                              C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o) (IntRegister)
+C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                              ./tarefas.o (SysCtlPeripheralEnable)
+C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                              ./uart.o (UARTIntClear)
+C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                              C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o) (CPUcpsid)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+                              c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+                              c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+                              c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memcpy.o)
+                              ./FreeRTOS/queue.o (memcpy)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+                              c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+                              ./FreeRTOS/FreeRTOS_CLI.o (strlen)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncmp.o)
+                              ./FreeRTOS/FreeRTOS_CLI.o (strncmp)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncpy.o)
+                              ./FreeRTOS/FreeRTOS_CLI.o (strncpy)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+                              c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+                              c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+                              c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                              c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+                              c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+                              c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+qUART0              0x4               ./uart.o
+__lock___atexit_recursive_mutex
+                    0x1               c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+mutexTx0            0x4               ./uart.o
+__lock___arc4random_mutex
+                    0x1               c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+LD1                 0x10              ./main.o
+xQueueRegistry      0x40              ./FreeRTOS/queue.o
+__lock___env_recursive_mutex
+                    0x1               c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+LD2                 0x10              ./main.o
+qUART0Tx            0x4               ./uart.o
+sUART0              0x4               ./uart.o
+__lock___at_quick_exit_mutex
+                    0x1               c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00100000         xr
+SRAM             0x20000000         0x00040000         xw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD ./main.o
+LOAD ./tarefas.o
+LOAD ./tm4c1294ncpdt_startup_ccs_gcc.o
+LOAD ./uart.o
+LOAD ./FreeRTOS/FreeRTOS_CLI.o
+LOAD ./FreeRTOS/croutine.o
+LOAD ./FreeRTOS/event_groups.o
+LOAD ./FreeRTOS/list.o
+LOAD ./FreeRTOS/queue.o
+LOAD ./FreeRTOS/stream_buffer.o
+LOAD ./FreeRTOS/tasks.o
+LOAD ./FreeRTOS/timers.o
+LOAD ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+LOAD ./FreeRTOS/portable/MemMang/heap_4.o
+                0x00000000                PROVIDE (_intvecs_base_address, 0x0)
+
+.intvecs        0x00000000      0x208
+ *(.intvecs)
+ .intvecs       0x00000000      0x208 ./tm4c1294ncpdt_startup_ccs_gcc.o
+                0x00000000                g_pfnVectors
+                0x20000000                PROVIDE (_vtable_base_address, 0x20000000)
+
+.vtable
+ *(.vtable)
+
+.text           0x00000240     0x5e64
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x00000240        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .text          0x00000240       0x40 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x00000280       0x74 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x00000280                _start
+                0x00000280                _mainCRTStartup
+ .text          0x000002f4        0x0 ./main.o
+ .text          0x000002f4        0x0 ./tarefas.o
+ .text          0x000002f4        0x0 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .text          0x000002f4        0x0 ./uart.o
+ .text          0x000002f4        0x0 ./FreeRTOS/FreeRTOS_CLI.o
+ .text          0x000002f4        0x0 ./FreeRTOS/croutine.o
+ .text          0x000002f4        0x0 ./FreeRTOS/event_groups.o
+ .text          0x000002f4        0x0 ./FreeRTOS/list.o
+ .text          0x000002f4        0x0 ./FreeRTOS/queue.o
+ .text          0x000002f4        0x0 ./FreeRTOS/stream_buffer.o
+ .text          0x000002f4        0x0 ./FreeRTOS/tasks.o
+ .text          0x000002f4        0x0 ./FreeRTOS/timers.o
+ .text          0x000002f4        0x0 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .text          0x000002f4        0x0 ./FreeRTOS/portable/MemMang/heap_4.o
+ .text          0x000002f4        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text          0x000002f4        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text          0x000002f4        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text          0x000002f4        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text          0x000002f4        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text          0x000002f4        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .text          0x000002f4        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .text          0x000002f4        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .text          0x000002f4      0x134 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memcpy.o)
+                0x000002f4                memcpy
+ .text          0x00000428        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ *fill*         0x00000428       0x18 
+ .text          0x00000440       0xdc c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+                0x00000440                strlen
+ .text          0x0000051c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncmp.o)
+ .text          0x0000051c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncpy.o)
+ .text          0x0000051c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .text          0x0000051c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .text          0x0000051c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .text          0x0000051c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text          0x0000051c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .text          0x0000051c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .text          0x0000051c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x0000051c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.text.*)
+ .text.main     0x0000051c       0x7c ./main.o
+                0x0000051c                main
+ .text.exec     0x00000598       0x40 ./tarefas.o
+                0x00000598                exec
+ .text.execUart
+                0x000005d8       0x68 ./tarefas.o
+                0x000005d8                execUart
+ .text.NmiSR    0x00000640        0x2 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .text.FaultISR
+                0x00000642        0x2 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .text.IntDefaultHandler
+                0x00000644        0x2 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ *fill*         0x00000646        0x2 
+ .text.ResetISR
+                0x00000648       0x50 ./tm4c1294ncpdt_startup_ccs_gcc.o
+                0x00000648                ResetISR
+ .text.UART_IRQHandler
+                0x00000698       0xa8 ./uart.o
+                0x00000698                UART_IRQHandler
+ .text.vUartInit
+                0x00000740      0x100 ./uart.o
+                0x00000740                vUartInit
+ .text.UART_Send
+                0x00000840       0x6c ./uart.o
+                0x00000840                UART_Send
+ .text.UART_Receive
+                0x000008ac       0x18 ./uart.o
+                0x000008ac                UART_Receive
+ .text.prvGetNumberOfParameters
+                0x000008c4       0x28 ./FreeRTOS/FreeRTOS_CLI.o
+ .text.prvHelpCommand
+                0x000008ec       0x34 ./FreeRTOS/FreeRTOS_CLI.o
+ .text.FreeRTOS_CLIRegisterCommand
+                0x00000920       0x54 ./FreeRTOS/FreeRTOS_CLI.o
+                0x00000920                FreeRTOS_CLIRegisterCommand
+ .text.FreeRTOS_CLIProcessCommand
+                0x00000974       0xc4 ./FreeRTOS/FreeRTOS_CLI.o
+                0x00000974                FreeRTOS_CLIProcessCommand
+ .text.FreeRTOS_CLIGetOutputBuffer
+                0x00000a38        0x8 ./FreeRTOS/FreeRTOS_CLI.o
+                0x00000a38                FreeRTOS_CLIGetOutputBuffer
+ .text.FreeRTOS_CLIGetParameter
+                0x00000a40       0x52 ./FreeRTOS/FreeRTOS_CLI.o
+                0x00000a40                FreeRTOS_CLIGetParameter
+ .text.prvTestWaitCondition
+                0x00000a92       0x1c ./FreeRTOS/event_groups.o
+ .text.xEventGroupCreate
+                0x00000aae       0x1a ./FreeRTOS/event_groups.o
+                0x00000aae                xEventGroupCreate
+ .text.xEventGroupWaitBits
+                0x00000ac8      0x10c ./FreeRTOS/event_groups.o
+                0x00000ac8                xEventGroupWaitBits
+ .text.xEventGroupClearBits
+                0x00000bd4       0x46 ./FreeRTOS/event_groups.o
+                0x00000bd4                xEventGroupClearBits
+ .text.xEventGroupGetBitsFromISR
+                0x00000c1a       0x1c ./FreeRTOS/event_groups.o
+                0x00000c1a                xEventGroupGetBitsFromISR
+ .text.xEventGroupSetBits
+                0x00000c36       0x8c ./FreeRTOS/event_groups.o
+                0x00000c36                xEventGroupSetBits
+ *fill*         0x00000cc2        0x2 
+ .text.xEventGroupSync
+                0x00000cc4       0xd4 ./FreeRTOS/event_groups.o
+                0x00000cc4                xEventGroupSync
+ .text.vEventGroupDelete
+                0x00000d98       0x3e ./FreeRTOS/event_groups.o
+                0x00000d98                vEventGroupDelete
+ .text.vEventGroupSetBitsCallback
+                0x00000dd6        0x8 ./FreeRTOS/event_groups.o
+                0x00000dd6                vEventGroupSetBitsCallback
+ .text.vEventGroupClearBitsCallback
+                0x00000dde        0x8 ./FreeRTOS/event_groups.o
+                0x00000dde                vEventGroupClearBitsCallback
+ .text.vListInitialise
+                0x00000de6       0x16 ./FreeRTOS/list.o
+                0x00000de6                vListInitialise
+ .text.vListInitialiseItem
+                0x00000dfc        0x6 ./FreeRTOS/list.o
+                0x00000dfc                vListInitialiseItem
+ .text.vListInsertEnd
+                0x00000e02       0x18 ./FreeRTOS/list.o
+                0x00000e02                vListInsertEnd
+ .text.vListInsert
+                0x00000e1a       0x34 ./FreeRTOS/list.o
+                0x00000e1a                vListInsert
+ .text.uxListRemove
+                0x00000e4e       0x28 ./FreeRTOS/list.o
+                0x00000e4e                uxListRemove
+ .text.prvGetDisinheritPriorityAfterTimeout
+                0x00000e76       0x12 ./FreeRTOS/queue.o
+ .text.prvIsQueueFull
+                0x00000e88       0x1e ./FreeRTOS/queue.o
+ .text.prvIsQueueEmpty
+                0x00000ea6       0x1a ./FreeRTOS/queue.o
+ .text.prvCopyDataToQueue
+                0x00000ec0       0x76 ./FreeRTOS/queue.o
+ .text.prvCopyDataFromQueue
+                0x00000f36       0x24 ./FreeRTOS/queue.o
+ .text.prvUnlockQueue
+                0x00000f5a       0x6e ./FreeRTOS/queue.o
+ .text.xQueueGenericReset
+                0x00000fc8       0x84 ./FreeRTOS/queue.o
+                0x00000fc8                xQueueGenericReset
+ .text.prvInitialiseNewQueue
+                0x0000104c       0x1c ./FreeRTOS/queue.o
+ .text.xQueueGenericCreate
+                0x00001068       0x48 ./FreeRTOS/queue.o
+                0x00001068                xQueueGenericCreate
+ .text.xQueueCreateCountingSemaphore
+                0x000010b0       0x40 ./FreeRTOS/queue.o
+                0x000010b0                xQueueCreateCountingSemaphore
+ .text.xQueueGenericSend
+                0x000010f0      0x17c ./FreeRTOS/queue.o
+                0x000010f0                xQueueGenericSend
+ .text.prvInitialiseMutex
+                0x0000126c       0x18 ./FreeRTOS/queue.o
+ .text.xQueueCreateMutex
+                0x00001284       0x16 ./FreeRTOS/queue.o
+                0x00001284                xQueueCreateMutex
+ .text.xQueueGiveMutexRecursive
+                0x0000129a       0x40 ./FreeRTOS/queue.o
+                0x0000129a                xQueueGiveMutexRecursive
+ .text.xQueueGenericSendFromISR
+                0x000012da       0xcc ./FreeRTOS/queue.o
+                0x000012da                xQueueGenericSendFromISR
+ .text.xQueueGiveFromISR
+                0x000013a6       0xb2 ./FreeRTOS/queue.o
+                0x000013a6                xQueueGiveFromISR
+ .text.xQueueReceive
+                0x00001458      0x158 ./FreeRTOS/queue.o
+                0x00001458                xQueueReceive
+ .text.xQueueSemaphoreTake
+                0x000015b0      0x19c ./FreeRTOS/queue.o
+                0x000015b0                xQueueSemaphoreTake
+ .text.xQueueTakeMutexRecursive
+                0x0000174c       0x44 ./FreeRTOS/queue.o
+                0x0000174c                xQueueTakeMutexRecursive
+ .text.xQueuePeek
+                0x00001790      0x158 ./FreeRTOS/queue.o
+                0x00001790                xQueuePeek
+ .text.xQueueReceiveFromISR
+                0x000018e8       0xaa ./FreeRTOS/queue.o
+                0x000018e8                xQueueReceiveFromISR
+ .text.xQueuePeekFromISR
+                0x00001992       0x7c ./FreeRTOS/queue.o
+                0x00001992                xQueuePeekFromISR
+ .text.uxQueueMessagesWaiting
+                0x00001a0e       0x26 ./FreeRTOS/queue.o
+                0x00001a0e                uxQueueMessagesWaiting
+ .text.uxQueueSpacesAvailable
+                0x00001a34       0x2a ./FreeRTOS/queue.o
+                0x00001a34                uxQueueSpacesAvailable
+ .text.uxQueueMessagesWaitingFromISR
+                0x00001a5e       0x18 ./FreeRTOS/queue.o
+                0x00001a5e                uxQueueMessagesWaitingFromISR
+ .text.xQueueIsQueueEmptyFromISR
+                0x00001a76       0x20 ./FreeRTOS/queue.o
+                0x00001a76                xQueueIsQueueEmptyFromISR
+ .text.xQueueIsQueueFullFromISR
+                0x00001a96       0x24 ./FreeRTOS/queue.o
+                0x00001a96                xQueueIsQueueFullFromISR
+ *fill*         0x00001aba        0x2 
+ .text.vQueueAddToRegistry
+                0x00001abc       0x28 ./FreeRTOS/queue.o
+                0x00001abc                vQueueAddToRegistry
+ .text.pcQueueGetName
+                0x00001ae4       0x28 ./FreeRTOS/queue.o
+                0x00001ae4                pcQueueGetName
+ .text.vQueueUnregisterQueue
+                0x00001b0c       0x2c ./FreeRTOS/queue.o
+                0x00001b0c                vQueueUnregisterQueue
+ .text.vQueueDelete
+                0x00001b38       0x24 ./FreeRTOS/queue.o
+                0x00001b38                vQueueDelete
+ .text.vQueueWaitForMessageRestricted
+                0x00001b5c       0x52 ./FreeRTOS/queue.o
+                0x00001b5c                vQueueWaitForMessageRestricted
+ .text.prvBytesInBuffer
+                0x00001bae       0x12 ./FreeRTOS/stream_buffer.o
+ .text.prvInitialiseNewStreamBuffer
+                0x00001bc0       0x40 ./FreeRTOS/stream_buffer.o
+ .text.prvWriteBytesToBuffer
+                0x00001c00       0x8c ./FreeRTOS/stream_buffer.o
+ .text.prvWriteMessageToBuffer
+                0x00001c8c       0x48 ./FreeRTOS/stream_buffer.o
+ .text.prvReadBytesFromBuffer
+                0x00001cd4       0x96 ./FreeRTOS/stream_buffer.o
+ .text.prvReadMessageFromBuffer
+                0x00001d6a       0x44 ./FreeRTOS/stream_buffer.o
+ .text.xStreamBufferGenericCreate
+                0x00001dae       0x74 ./FreeRTOS/stream_buffer.o
+                0x00001dae                xStreamBufferGenericCreate
+ .text.vStreamBufferDelete
+                0x00001e22       0x2e ./FreeRTOS/stream_buffer.o
+                0x00001e22                vStreamBufferDelete
+ .text.xStreamBufferReset
+                0x00001e50       0x4a ./FreeRTOS/stream_buffer.o
+                0x00001e50                xStreamBufferReset
+ .text.xStreamBufferSetTriggerLevel
+                0x00001e9a       0x2a ./FreeRTOS/stream_buffer.o
+                0x00001e9a                xStreamBufferSetTriggerLevel
+ .text.xStreamBufferSpacesAvailable
+                0x00001ec4       0x2a ./FreeRTOS/stream_buffer.o
+                0x00001ec4                xStreamBufferSpacesAvailable
+ .text.xStreamBufferBytesAvailable
+                0x00001eee       0x1c ./FreeRTOS/stream_buffer.o
+                0x00001eee                xStreamBufferBytesAvailable
+ .text.xStreamBufferSend
+                0x00001f0a      0x10e ./FreeRTOS/stream_buffer.o
+                0x00001f0a                xStreamBufferSend
+ .text.xStreamBufferSendFromISR
+                0x00002018       0xa0 ./FreeRTOS/stream_buffer.o
+                0x00002018                xStreamBufferSendFromISR
+ .text.xStreamBufferReceive
+                0x000020b8       0xe0 ./FreeRTOS/stream_buffer.o
+                0x000020b8                xStreamBufferReceive
+ .text.xStreamBufferNextMessageLengthBytes
+                0x00002198       0x5a ./FreeRTOS/stream_buffer.o
+                0x00002198                xStreamBufferNextMessageLengthBytes
+ .text.xStreamBufferReceiveFromISR
+                0x000021f2       0x9a ./FreeRTOS/stream_buffer.o
+                0x000021f2                xStreamBufferReceiveFromISR
+ .text.xStreamBufferIsEmpty
+                0x0000228c       0x24 ./FreeRTOS/stream_buffer.o
+                0x0000228c                xStreamBufferIsEmpty
+ .text.xStreamBufferIsFull
+                0x000022b0       0x38 ./FreeRTOS/stream_buffer.o
+                0x000022b0                xStreamBufferIsFull
+ .text.xStreamBufferSendCompletedFromISR
+                0x000022e8       0x52 ./FreeRTOS/stream_buffer.o
+                0x000022e8                xStreamBufferSendCompletedFromISR
+ .text.xStreamBufferReceiveCompletedFromISR
+                0x0000233a       0x52 ./FreeRTOS/stream_buffer.o
+                0x0000233a                xStreamBufferReceiveCompletedFromISR
+ .text.prvTaskIsTaskSuspended
+                0x0000238c       0x40 ./FreeRTOS/tasks.o
+ .text.prvResetNextTaskUnblockTime
+                0x000023cc       0x2c ./FreeRTOS/tasks.o
+ .text.prvDeleteTCB
+                0x000023f8       0x12 ./FreeRTOS/tasks.o
+ .text.prvInitialiseNewTask
+                0x0000240a       0x8c ./FreeRTOS/tasks.o
+ *fill*         0x00002496        0x2 
+ .text.prvInitialiseTaskLists
+                0x00002498       0x68 ./FreeRTOS/tasks.o
+ .text.prvAddNewTaskToReadyList
+                0x00002500       0xa8 ./FreeRTOS/tasks.o
+ .text.prvCheckTasksWaitingTermination
+                0x000025a8       0x4c ./FreeRTOS/tasks.o
+ .text.prvIdleTask
+                0x000025f4       0x28 ./FreeRTOS/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x0000261c       0x98 ./FreeRTOS/tasks.o
+ .text.xTaskCreate
+                0x000026b4       0x62 ./FreeRTOS/tasks.o
+                0x000026b4                xTaskCreate
+ *fill*         0x00002716        0x2 
+ .text.vTaskDelete
+                0x00002718       0xe0 ./FreeRTOS/tasks.o
+                0x00002718                vTaskDelete
+ .text.uxTaskPriorityGet
+                0x000027f8       0x20 ./FreeRTOS/tasks.o
+                0x000027f8                uxTaskPriorityGet
+ .text.uxTaskPriorityGetFromISR
+                0x00002818       0x30 ./FreeRTOS/tasks.o
+                0x00002818                uxTaskPriorityGetFromISR
+ .text.vTaskPrioritySet
+                0x00002848       0xdc ./FreeRTOS/tasks.o
+                0x00002848                vTaskPrioritySet
+ .text.vTaskResume
+                0x00002924       0x84 ./FreeRTOS/tasks.o
+                0x00002924                vTaskResume
+ .text.xTaskResumeFromISR
+                0x000029a8       0xa4 ./FreeRTOS/tasks.o
+                0x000029a8                xTaskResumeFromISR
+ .text.vTaskStartScheduler
+                0x00002a4c       0x88 ./FreeRTOS/tasks.o
+                0x00002a4c                vTaskStartScheduler
+ .text.vTaskEndScheduler
+                0x00002ad4       0x24 ./FreeRTOS/tasks.o
+                0x00002ad4                vTaskEndScheduler
+ .text.vTaskSuspendAll
+                0x00002af8       0x10 ./FreeRTOS/tasks.o
+                0x00002af8                vTaskSuspendAll
+ .text.xTaskGetTickCount
+                0x00002b08        0xc ./FreeRTOS/tasks.o
+                0x00002b08                xTaskGetTickCount
+ .text.xTaskGetTickCountFromISR
+                0x00002b14       0x10 ./FreeRTOS/tasks.o
+                0x00002b14                xTaskGetTickCountFromISR
+ .text.uxTaskGetNumberOfTasks
+                0x00002b24        0xc ./FreeRTOS/tasks.o
+                0x00002b24                uxTaskGetNumberOfTasks
+ .text.pcTaskGetName
+                0x00002b30       0x28 ./FreeRTOS/tasks.o
+                0x00002b30                pcTaskGetName
+ .text.xTaskIncrementTick
+                0x00002b58      0x118 ./FreeRTOS/tasks.o
+                0x00002b58                xTaskIncrementTick
+ .text.xTaskResumeAll
+                0x00002c70       0xf4 ./FreeRTOS/tasks.o
+                0x00002c70                xTaskResumeAll
+ .text.vTaskDelayUntil
+                0x00002d64       0xa4 ./FreeRTOS/tasks.o
+                0x00002d64                vTaskDelayUntil
+ .text.vTaskDelay
+                0x00002e08       0x4c ./FreeRTOS/tasks.o
+                0x00002e08                vTaskDelay
+ .text.vTaskSwitchContext
+                0x00002e54       0x98 ./FreeRTOS/tasks.o
+                0x00002e54                vTaskSwitchContext
+ .text.vTaskSuspend
+                0x00002eec       0xec ./FreeRTOS/tasks.o
+                0x00002eec                vTaskSuspend
+ .text.vTaskPlaceOnEventList
+                0x00002fd8       0x30 ./FreeRTOS/tasks.o
+                0x00002fd8                vTaskPlaceOnEventList
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00003008       0x5c ./FreeRTOS/tasks.o
+                0x00003008                vTaskPlaceOnUnorderedEventList
+ .text.vTaskPlaceOnEventListRestricted
+                0x00003064       0x38 ./FreeRTOS/tasks.o
+                0x00003064                vTaskPlaceOnEventListRestricted
+ .text.xTaskRemoveFromEventList
+                0x0000309c       0x8c ./FreeRTOS/tasks.o
+                0x0000309c                xTaskRemoveFromEventList
+ .text.vTaskRemoveFromUnorderedEventList
+                0x00003128       0x88 ./FreeRTOS/tasks.o
+                0x00003128                vTaskRemoveFromUnorderedEventList
+ .text.vTaskSetTimeOutState
+                0x000031b0       0x38 ./FreeRTOS/tasks.o
+                0x000031b0                vTaskSetTimeOutState
+ .text.vTaskInternalSetTimeOutState
+                0x000031e8       0x18 ./FreeRTOS/tasks.o
+                0x000031e8                vTaskInternalSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x00003200       0x80 ./FreeRTOS/tasks.o
+                0x00003200                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x00003280        0xc ./FreeRTOS/tasks.o
+                0x00003280                vTaskMissedYield
+ .text.xTaskGetCurrentTaskHandle
+                0x0000328c        0xc ./FreeRTOS/tasks.o
+                0x0000328c                xTaskGetCurrentTaskHandle
+ .text.xTaskGetSchedulerState
+                0x00003298       0x20 ./FreeRTOS/tasks.o
+                0x00003298                xTaskGetSchedulerState
+ .text.xTaskPriorityInherit
+                0x000032b8       0xb8 ./FreeRTOS/tasks.o
+                0x000032b8                xTaskPriorityInherit
+ .text.xTaskPriorityDisinherit
+                0x00003370       0xb0 ./FreeRTOS/tasks.o
+                0x00003370                xTaskPriorityDisinherit
+ .text.vTaskPriorityDisinheritAfterTimeout
+                0x00003420       0xc0 ./FreeRTOS/tasks.o
+                0x00003420                vTaskPriorityDisinheritAfterTimeout
+ .text.uxTaskResetEventItemValue
+                0x000034e0       0x18 ./FreeRTOS/tasks.o
+                0x000034e0                uxTaskResetEventItemValue
+ .text.pvTaskIncrementMutexHeldCount
+                0x000034f8       0x1c ./FreeRTOS/tasks.o
+                0x000034f8                pvTaskIncrementMutexHeldCount
+ .text.ulTaskNotifyTake
+                0x00003514       0x78 ./FreeRTOS/tasks.o
+                0x00003514                ulTaskNotifyTake
+ .text.xTaskNotifyWait
+                0x0000358c       0x98 ./FreeRTOS/tasks.o
+                0x0000358c                xTaskNotifyWait
+ .text.xTaskGenericNotify
+                0x00003624      0x100 ./FreeRTOS/tasks.o
+                0x00003624                xTaskGenericNotify
+ .text.xTaskGenericNotifyFromISR
+                0x00003724      0x138 ./FreeRTOS/tasks.o
+                0x00003724                xTaskGenericNotifyFromISR
+ .text.vTaskNotifyGiveFromISR
+                0x0000385c       0xcc ./FreeRTOS/tasks.o
+                0x0000385c                vTaskNotifyGiveFromISR
+ .text.xTaskNotifyStateClear
+                0x00003928       0x34 ./FreeRTOS/tasks.o
+                0x00003928                xTaskNotifyStateClear
+ .text.prvGetNextExpireTime
+                0x0000395c       0x20 ./FreeRTOS/timers.o
+ .text.prvInsertTimerInActiveList
+                0x0000397c       0x48 ./FreeRTOS/timers.o
+ .text.prvCheckForValidListAndQueue
+                0x000039c4       0x5c ./FreeRTOS/timers.o
+ .text.prvInitialiseNewTimer
+                0x00003a20       0x4c ./FreeRTOS/timers.o
+ .text.xTimerCreateTimerTask
+                0x00003a6c       0x50 ./FreeRTOS/timers.o
+                0x00003a6c                xTimerCreateTimerTask
+ .text.xTimerCreate
+                0x00003abc       0x38 ./FreeRTOS/timers.o
+                0x00003abc                xTimerCreate
+ .text.xTimerGenericCommand
+                0x00003af4       0x6c ./FreeRTOS/timers.o
+                0x00003af4                xTimerGenericCommand
+ .text.prvSwitchTimerLists
+                0x00003b60       0x7c ./FreeRTOS/timers.o
+ .text.prvSampleTimeNow
+                0x00003bdc       0x2c ./FreeRTOS/timers.o
+ .text.prvProcessExpiredTimer
+                0x00003c08       0x6c ./FreeRTOS/timers.o
+ .text.prvProcessTimerOrBlockTask
+                0x00003c74       0x74 ./FreeRTOS/timers.o
+ .text.prvProcessReceivedCommands
+                0x00003ce8       0xfc ./FreeRTOS/timers.o
+ .text.prvTimerTask
+                0x00003de4       0x16 ./FreeRTOS/timers.o
+ *fill*         0x00003dfa        0x2 
+ .text.xTimerGetTimerDaemonTaskHandle
+                0x00003dfc       0x20 ./FreeRTOS/timers.o
+                0x00003dfc                xTimerGetTimerDaemonTaskHandle
+ .text.xTimerGetPeriod
+                0x00003e1c       0x18 ./FreeRTOS/timers.o
+                0x00003e1c                xTimerGetPeriod
+ .text.vTimerSetReloadMode
+                0x00003e34       0x40 ./FreeRTOS/timers.o
+                0x00003e34                vTimerSetReloadMode
+ .text.xTimerGetExpiryTime
+                0x00003e74       0x18 ./FreeRTOS/timers.o
+                0x00003e74                xTimerGetExpiryTime
+ .text.pcTimerGetName
+                0x00003e8c       0x18 ./FreeRTOS/timers.o
+                0x00003e8c                pcTimerGetName
+ .text.xTimerIsTimerActive
+                0x00003ea4       0x34 ./FreeRTOS/timers.o
+                0x00003ea4                xTimerIsTimerActive
+ .text.pvTimerGetTimerID
+                0x00003ed8       0x26 ./FreeRTOS/timers.o
+                0x00003ed8                pvTimerGetTimerID
+ .text.vTimerSetTimerID
+                0x00003efe       0x26 ./FreeRTOS/timers.o
+                0x00003efe                vTimerSetTimerID
+ .text.prvTaskExitError
+                0x00003f24       0x40 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .text.prvPortStartFirstTask
+                0x00003f64       0x28 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .text.vPortEnableVFP
+                0x00003f8c       0x14 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .text.pxPortInitialiseStack
+                0x00003fa0       0x2c ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x00003fa0                pxPortInitialiseStack
+ *fill*         0x00003fcc        0x4 
+ .text.vPortSVCHandler
+                0x00003fd0       0x24 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x00003fd0                vPortSVCHandler
+ .text.vPortEndScheduler
+                0x00003ff4       0x24 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x00003ff4                vPortEndScheduler
+ .text.vPortEnterCritical
+                0x00004018       0x44 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x00004018                vPortEnterCritical
+ .text.vPortExitCritical
+                0x0000405c       0x2c ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000405c                vPortExitCritical
+ *fill*         0x00004088        0x8 
+ .text.xPortPendSVHandler
+                0x00004090       0x64 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x00004090                xPortPendSVHandler
+ .text.xPortSysTickHandler
+                0x000040f4       0x2c ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x000040f4                xPortSysTickHandler
+ .text.vPortSetupTimerInterrupt
+                0x00004120       0x28 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x00004120                vPortSetupTimerInterrupt
+ .text.xPortStartScheduler
+                0x00004148      0x110 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x00004148                xPortStartScheduler
+ .text.vPortValidateInterruptPriority
+                0x00004258       0x5c ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x00004258                vPortValidateInterruptPriority
+ .text.prvHeapInit
+                0x000042b4       0x64 ./FreeRTOS/portable/MemMang/heap_4.o
+ .text.prvInsertBlockIntoFreeList
+                0x00004318       0x58 ./FreeRTOS/portable/MemMang/heap_4.o
+ .text.pvPortMalloc
+                0x00004370      0x108 ./FreeRTOS/portable/MemMang/heap_4.o
+                0x00004370                pvPortMalloc
+ .text.vPortFree
+                0x00004478       0x70 ./FreeRTOS/portable/MemMang/heap_4.o
+                0x00004478                vPortFree
+ .text.xPortGetFreeHeapSize
+                0x000044e8        0xc ./FreeRTOS/portable/MemMang/heap_4.o
+                0x000044e8                xPortGetFreeHeapSize
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x000044f4        0xc ./FreeRTOS/portable/MemMang/heap_4.o
+                0x000044f4                xPortGetMinimumEverFreeHeapSize
+ .text.vPortInitialiseBlocks
+                0x00004500        0x2 ./FreeRTOS/portable/MemMang/heap_4.o
+                0x00004500                vPortInitialiseBlocks
+ *fill*         0x00004502        0x2 
+ .text._GPIOIntNumberGet
+                0x00004504       0x48 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIODirModeSet
+                0x0000454c       0x2e C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000454c                GPIODirModeSet
+ .text.GPIODirModeGet
+                0x0000457a       0x24 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000457a                GPIODirModeGet
+ .text.GPIOIntTypeSet
+                0x0000459e       0x5a C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000459e                GPIOIntTypeSet
+ .text.GPIOIntTypeGet
+                0x000045f8       0x4a C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000045f8                GPIOIntTypeGet
+ .text.GPIOPadConfigSet
+                0x00004642      0x130 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004642                GPIOPadConfigSet
+ .text.GPIOPadConfigGet
+                0x00004772       0xc4 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004772                GPIOPadConfigGet
+ .text.GPIOIntEnable
+                0x00004836        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004836                GPIOIntEnable
+ .text.GPIOIntDisable
+                0x00004842        0xe C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004842                GPIOIntDisable
+ .text.GPIOIntStatus
+                0x00004850        0xe C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004850                GPIOIntStatus
+ .text.GPIOIntClear
+                0x0000485e        0x6 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000485e                GPIOIntClear
+ .text.GPIOIntRegister
+                0x00004864       0x1a C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004864                GPIOIntRegister
+ .text.GPIOIntUnregister
+                0x0000487e       0x16 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000487e                GPIOIntUnregister
+ .text.GPIOIntRegisterPin
+                0x00004894       0x1e C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004894                GPIOIntRegisterPin
+ .text.GPIOIntUnregisterPin
+                0x000048b2       0x1a C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000048b2                GPIOIntUnregisterPin
+ .text.GPIOPinRead
+                0x000048cc        0x6 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000048cc                GPIOPinRead
+ .text.GPIOPinWrite
+                0x000048d2        0x6 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000048d2                GPIOPinWrite
+ .text.GPIOPinTypeADC
+                0x000048d8       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000048d8                GPIOPinTypeADC
+ .text.GPIOPinTypeCAN
+                0x000048f4       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000048f4                GPIOPinTypeCAN
+ .text.GPIOPinTypeComparator
+                0x00004910       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004910                GPIOPinTypeComparator
+ .text.GPIOPinTypeComparatorOutput
+                0x0000492c       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000492c                GPIOPinTypeComparatorOutput
+ .text.GPIOPinTypeDIVSCLK
+                0x00004948       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004948                GPIOPinTypeDIVSCLK
+ .text.GPIOPinTypeEPI
+                0x00004964       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004964                GPIOPinTypeEPI
+ .text.GPIOPinTypeEthernetLED
+                0x00004980       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004980                GPIOPinTypeEthernetLED
+ .text.GPIOPinTypeEthernetMII
+                0x0000499c       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000499c                GPIOPinTypeEthernetMII
+ .text.GPIOPinTypeGPIOInput
+                0x000049b8       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000049b8                GPIOPinTypeGPIOInput
+ .text.GPIOPinTypeGPIOOutput
+                0x000049d4       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000049d4                GPIOPinTypeGPIOOutput
+ .text.GPIOPinTypeGPIOOutputOD
+                0x000049f0       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000049f0                GPIOPinTypeGPIOOutputOD
+ .text.GPIOPinTypeHibernateRTCCLK
+                0x00004a0c       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004a0c                GPIOPinTypeHibernateRTCCLK
+ .text.GPIOPinTypeI2C
+                0x00004a28       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004a28                GPIOPinTypeI2C
+ .text.GPIOPinTypeI2CSCL
+                0x00004a44       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004a44                GPIOPinTypeI2CSCL
+ .text.GPIOPinTypeLCD
+                0x00004a60       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004a60                GPIOPinTypeLCD
+ .text.GPIOPinTypeOneWire
+                0x00004a7c       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004a7c                GPIOPinTypeOneWire
+ .text.GPIOPinTypePWM
+                0x00004a98       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004a98                GPIOPinTypePWM
+ .text.GPIOPinTypeQEI
+                0x00004ab4       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004ab4                GPIOPinTypeQEI
+ .text.GPIOPinTypeSSI
+                0x00004ad0       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004ad0                GPIOPinTypeSSI
+ .text.GPIOPinTypeTimer
+                0x00004aec       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004aec                GPIOPinTypeTimer
+ .text.GPIOPinTypeTrace
+                0x00004b08       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004b08                GPIOPinTypeTrace
+ .text.GPIOPinTypeUART
+                0x00004b24       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004b24                GPIOPinTypeUART
+ .text.GPIOPinTypeUSBAnalog
+                0x00004b40       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004b40                GPIOPinTypeUSBAnalog
+ .text.GPIOPinTypeUSBDigital
+                0x00004b5c       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004b5c                GPIOPinTypeUSBDigital
+ .text.GPIOPinTypeWakeHigh
+                0x00004b78       0x1e C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004b78                GPIOPinTypeWakeHigh
+ .text.GPIOPinTypeWakeLow
+                0x00004b96       0x1e C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004b96                GPIOPinTypeWakeLow
+ .text.GPIOPinWakeStatus
+                0x00004bb4        0x6 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004bb4                GPIOPinWakeStatus
+ *fill*         0x00004bba        0x2 
+ .text.GPIOPinConfigure
+                0x00004bbc       0x4c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004bbc                GPIOPinConfigure
+ .text.GPIODMATriggerEnable
+                0x00004c08        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004c08                GPIODMATriggerEnable
+ .text.GPIODMATriggerDisable
+                0x00004c14        0xe C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004c14                GPIODMATriggerDisable
+ .text.GPIOADCTriggerEnable
+                0x00004c22        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004c22                GPIOADCTriggerEnable
+ .text.GPIOADCTriggerDisable
+                0x00004c2e        0xe C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00004c2e                GPIOADCTriggerDisable
+ .text._IntDefaultHandler
+                0x00004c3c        0x2 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterEnable
+                0x00004c3e        0xe C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004c3e                IntMasterEnable
+ .text.IntMasterDisable
+                0x00004c4c        0xe C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004c4c                IntMasterDisable
+ *fill*         0x00004c5a        0x2 
+ .text.IntRegister
+                0x00004c5c       0x34 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004c5c                IntRegister
+ .text.IntUnregister
+                0x00004c90       0x14 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004c90                IntUnregister
+ .text.IntPriorityGroupingSet
+                0x00004ca4       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004ca4                IntPriorityGroupingSet
+ .text.IntPriorityGroupingGet
+                0x00004cc0       0x24 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004cc0                IntPriorityGroupingGet
+ .text.IntPrioritySet
+                0x00004ce4       0x2c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004ce4                IntPrioritySet
+ .text.IntPriorityGet
+                0x00004d10       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004d10                IntPriorityGet
+ .text.IntEnable
+                0x00004d2c       0x60 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004d2c                IntEnable
+ .text.IntDisable
+                0x00004d8c       0x60 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004d8c                IntDisable
+ .text.IntIsEnabled
+                0x00004dec       0x64 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004dec                IntIsEnabled
+ .text.IntPendSet
+                0x00004e50       0x50 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004e50                IntPendSet
+ .text.IntPendClear
+                0x00004ea0       0x40 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004ea0                IntPendClear
+ .text.IntPriorityMaskSet
+                0x00004ee0        0x4 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004ee0                IntPriorityMaskSet
+ .text.IntPriorityMaskGet
+                0x00004ee4        0x4 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004ee4                IntPriorityMaskGet
+ .text.IntTrigger
+                0x00004ee8        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00004ee8                IntTrigger
+ .text._SysCtlMemTimingGet
+                0x00004ef4       0x24 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x00004f18       0x10 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00004f18                SysCtlSRAMSizeGet
+ .text.SysCtlFlashSizeGet
+                0x00004f28       0x3c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00004f28                SysCtlFlashSizeGet
+ .text.SysCtlFlashSectorSizeGet
+                0x00004f64       0x38 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00004f64                SysCtlFlashSectorSizeGet
+ .text.SysCtlPeripheralPresent
+                0x00004f9c       0x26 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00004f9c                SysCtlPeripheralPresent
+ .text.SysCtlPeripheralReady
+                0x00004fc2       0x26 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00004fc2                SysCtlPeripheralReady
+ .text.SysCtlPeripheralPowerOn
+                0x00004fe8       0x22 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00004fe8                SysCtlPeripheralPowerOn
+ .text.SysCtlPeripheralPowerOff
+                0x0000500a       0x22 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000500a                SysCtlPeripheralPowerOff
+ .text.SysCtlPeripheralReset
+                0x0000502c       0x3a C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000502c                SysCtlPeripheralReset
+ .text.SysCtlPeripheralEnable
+                0x00005066       0x22 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005066                SysCtlPeripheralEnable
+ .text.SysCtlPeripheralDisable
+                0x00005088       0x22 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005088                SysCtlPeripheralDisable
+ .text.SysCtlPeripheralSleepEnable
+                0x000050aa       0x22 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000050aa                SysCtlPeripheralSleepEnable
+ .text.SysCtlPeripheralSleepDisable
+                0x000050cc       0x22 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000050cc                SysCtlPeripheralSleepDisable
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x000050ee       0x22 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000050ee                SysCtlPeripheralDeepSleepEnable
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x00005110       0x22 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005110                SysCtlPeripheralDeepSleepDisable
+ *fill*         0x00005132        0x2 
+ .text.SysCtlPeripheralClockGating
+                0x00005134       0x48 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005134                SysCtlPeripheralClockGating
+ .text.SysCtlIntRegister
+                0x0000517c       0x14 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000517c                SysCtlIntRegister
+ .text.SysCtlIntUnregister
+                0x00005190       0x12 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005190                SysCtlIntUnregister
+ *fill*         0x000051a2        0x2 
+ .text.SysCtlIntEnable
+                0x000051a4       0x10 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000051a4                SysCtlIntEnable
+ .text.SysCtlIntDisable
+                0x000051b4       0x10 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000051b4                SysCtlIntDisable
+ .text.SysCtlIntClear
+                0x000051c4        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000051c4                SysCtlIntClear
+ .text.SysCtlIntStatus
+                0x000051d0       0x14 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000051d0                SysCtlIntStatus
+ .text.SysCtlLDOSleepSet
+                0x000051e4        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000051e4                SysCtlLDOSleepSet
+ .text.SysCtlLDOSleepGet
+                0x000051f0        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000051f0                SysCtlLDOSleepGet
+ .text.SysCtlLDODeepSleepSet
+                0x000051fc        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000051fc                SysCtlLDODeepSleepSet
+ .text.SysCtlLDODeepSleepGet
+                0x00005208        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005208                SysCtlLDODeepSleepGet
+ .text.SysCtlSleepPowerSet
+                0x00005214        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005214                SysCtlSleepPowerSet
+ .text.SysCtlDeepSleepPowerSet
+                0x00005220        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005220                SysCtlDeepSleepPowerSet
+ .text.SysCtlReset
+                0x0000522c       0x10 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000522c                SysCtlReset
+ .text.SysCtlSleep
+                0x0000523c        0x4 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000523c                SysCtlSleep
+ .text.SysCtlDeepSleep
+                0x00005240       0x20 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005240                SysCtlDeepSleep
+ .text.SysCtlResetCauseGet
+                0x00005260        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005260                SysCtlResetCauseGet
+ .text.SysCtlResetCauseClear
+                0x0000526c       0x10 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000526c                SysCtlResetCauseClear
+ .text.SysCtlDelay
+                0x0000527c        0x8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000527c                SysCtlDelay
+ .text.SysCtlMOSCConfigSet
+                0x00005284        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005284                SysCtlMOSCConfigSet
+ .text.SysCtlPIOSCCalibrate
+                0x00005290       0x48 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005290                SysCtlPIOSCCalibrate
+ .text.SysCtlResetBehaviorSet
+                0x000052d8        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000052d8                SysCtlResetBehaviorSet
+ .text.SysCtlResetBehaviorGet
+                0x000052e4        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000052e4                SysCtlResetBehaviorGet
+ .text.SysCtlClockFreqSet
+                0x000052f0      0x248 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000052f0                SysCtlClockFreqSet
+ .text.SysCtlClockSet
+                0x00005538      0x11c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005538                SysCtlClockSet
+ .text.SysCtlClockGet
+                0x00005654      0x12c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005654                SysCtlClockGet
+ .text.SysCtlDeepSleepClockSet
+                0x00005780        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005780                SysCtlDeepSleepClockSet
+ .text.SysCtlDeepSleepClockConfigSet
+                0x0000578c       0x60 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000578c                SysCtlDeepSleepClockConfigSet
+ .text.SysCtlPWMClockSet
+                0x000057ec       0x14 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000057ec                SysCtlPWMClockSet
+ .text.SysCtlPWMClockGet
+                0x00005800       0x18 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005800                SysCtlPWMClockGet
+ .text.SysCtlGPIOAHBEnable
+                0x00005818       0x18 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005818                SysCtlGPIOAHBEnable
+ .text.SysCtlGPIOAHBDisable
+                0x00005830       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005830                SysCtlGPIOAHBDisable
+ .text.SysCtlUSBPLLEnable
+                0x0000584c       0x10 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000584c                SysCtlUSBPLLEnable
+ .text.SysCtlUSBPLLDisable
+                0x0000585c       0x10 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000585c                SysCtlUSBPLLDisable
+ .text.SysCtlVoltageEventConfig
+                0x0000586c        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000586c                SysCtlVoltageEventConfig
+ .text.SysCtlVoltageEventStatus
+                0x00005878        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005878                SysCtlVoltageEventStatus
+ .text.SysCtlVoltageEventClear
+                0x00005884       0x10 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005884                SysCtlVoltageEventClear
+ .text.SysCtlVCOGet
+                0x00005894       0x78 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005894                SysCtlVCOGet
+ .text.SysCtlNMIStatus
+                0x0000590c        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000590c                SysCtlNMIStatus
+ .text.SysCtlNMIClear
+                0x00005918       0x10 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005918                SysCtlNMIClear
+ .text.SysCtlClockOutConfig
+                0x00005928       0x10 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005928                SysCtlClockOutConfig
+ .text.SysCtlAltClkConfig
+                0x00005938        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00005938                SysCtlAltClkConfig
+ .text._UARTIntNumberGet
+                0x00005944       0x44 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTParityModeSet
+                0x00005988        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005988                UARTParityModeSet
+ .text.UARTParityModeGet
+                0x00005994        0x8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005994                UARTParityModeGet
+ .text.UARTFIFOLevelSet
+                0x0000599c        0x6 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000599c                UARTFIFOLevelSet
+ .text.UARTFIFOLevelGet
+                0x000059a2       0x10 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000059a2                UARTFIFOLevelGet
+ .text.UARTConfigGetExpClk
+                0x000059b2       0x28 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000059b2                UARTConfigGetExpClk
+ .text.UARTEnable
+                0x000059da       0x16 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000059da                UARTEnable
+ .text.UARTDisable
+                0x000059f0       0x1c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000059f0                UARTDisable
+ .text.UARTConfigSetExpClk
+                0x00005a0c       0x48 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005a0c                UARTConfigSetExpClk
+ .text.UARTFIFOEnable
+                0x00005a54        0xa C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005a54                UARTFIFOEnable
+ .text.UARTFIFODisable
+                0x00005a5e        0xa C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005a5e                UARTFIFODisable
+ .text.UARTEnableSIR
+                0x00005a68       0x12 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005a68                UARTEnableSIR
+ .text.UARTDisableSIR
+                0x00005a7a        0xa C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005a7a                UARTDisableSIR
+ .text.UARTSmartCardEnable
+                0x00005a84       0x16 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005a84                UARTSmartCardEnable
+ .text.UARTSmartCardDisable
+                0x00005a9a        0xa C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005a9a                UARTSmartCardDisable
+ .text.UARTModemControlSet
+                0x00005aa4        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005aa4                UARTModemControlSet
+ .text.UARTModemControlClear
+                0x00005ab0        0xe C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005ab0                UARTModemControlClear
+ .text.UARTModemControlGet
+                0x00005abe        0x8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005abe                UARTModemControlGet
+ .text.UARTModemStatusGet
+                0x00005ac6        0xa C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005ac6                UARTModemStatusGet
+ .text.UARTFlowControlSet
+                0x00005ad0        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005ad0                UARTFlowControlSet
+ .text.UARTFlowControlGet
+                0x00005adc        0x8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005adc                UARTFlowControlGet
+ .text.UARTTxIntModeSet
+                0x00005ae4        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005ae4                UARTTxIntModeSet
+ .text.UARTTxIntModeGet
+                0x00005af0        0x8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005af0                UARTTxIntModeGet
+ .text.UARTCharsAvail
+                0x00005af8        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005af8                UARTCharsAvail
+ .text.UARTSpaceAvail
+                0x00005b04        0xc C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005b04                UARTSpaceAvail
+ .text.UARTCharGetNonBlocking
+                0x00005b10        0xe C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005b10                UARTCharGetNonBlocking
+ .text.UARTCharGet
+                0x00005b1e        0xa C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005b1e                UARTCharGet
+ .text.UARTCharPutNonBlocking
+                0x00005b28       0x10 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005b28                UARTCharPutNonBlocking
+ .text.UARTCharPut
+                0x00005b38        0xa C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005b38                UARTCharPut
+ .text.UARTBreakCtl
+                0x00005b42       0x16 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005b42                UARTBreakCtl
+ .text.UARTBusy
+                0x00005b58        0x8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005b58                UARTBusy
+ .text.UARTIntRegister
+                0x00005b60       0x1a C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005b60                UARTIntRegister
+ .text.UARTIntUnregister
+                0x00005b7a       0x16 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005b7a                UARTIntUnregister
+ .text.UARTIntEnable
+                0x00005b90        0x8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005b90                UARTIntEnable
+ .text.UARTIntDisable
+                0x00005b98        0xa C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005b98                UARTIntDisable
+ .text.UARTIntStatus
+                0x00005ba2        0xa C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005ba2                UARTIntStatus
+ .text.UARTIntClear
+                0x00005bac        0x4 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005bac                UARTIntClear
+ .text.UARTDMAEnable
+                0x00005bb0        0x8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005bb0                UARTDMAEnable
+ .text.UARTDMADisable
+                0x00005bb8        0xa C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005bb8                UARTDMADisable
+ .text.UARTRxErrorGet
+                0x00005bc2        0x8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005bc2                UARTRxErrorGet
+ .text.UARTRxErrorClear
+                0x00005bca        0x6 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005bca                UARTRxErrorClear
+ .text.UARTClockSourceSet
+                0x00005bd0        0x6 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005bd0                UARTClockSourceSet
+ .text.UARTClockSourceGet
+                0x00005bd6        0x6 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005bd6                UARTClockSourceGet
+ .text.UART9BitEnable
+                0x00005bdc        0xe C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005bdc                UART9BitEnable
+ .text.UART9BitDisable
+                0x00005bea        0xe C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005bea                UART9BitDisable
+ .text.UART9BitAddrSet
+                0x00005bf8        0xa C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005bf8                UART9BitAddrSet
+ .text.UART9BitAddrSend
+                0x00005c02       0x2c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005c02                UART9BitAddrSend
+ .text.UARTLoopbackEnable
+                0x00005c2e        0xa C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00005c2e                UARTLoopbackEnable
+ .text.CPUcpsid
+                0x00005c38        0x8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x00005c38                CPUcpsid
+ .text.CPUprimask
+                0x00005c40        0x6 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x00005c40                CPUprimask
+ .text.CPUcpsie
+                0x00005c46        0x8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x00005c46                CPUcpsie
+ .text.CPUwfi   0x00005c4e        0x4 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x00005c4e                CPUwfi
+ .text.CPUbasepriSet
+                0x00005c52        0x6 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x00005c52                CPUbasepriSet
+ .text.CPUbasepriGet
+                0x00005c58        0x6 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x00005c58                CPUbasepriGet
+ *fill*         0x00005c5e        0x2 
+ .text.exit     0x00005c60       0x20 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+                0x00005c60                exit
+ .text.__libc_init_array
+                0x00005c80       0x48 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+                0x00005c80                __libc_init_array
+ .text.memset   0x00005cc8       0x94 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+                0x00005cc8                memset
+ .text.strncmp  0x00005d5c       0x98 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncmp.o)
+                0x00005d5c                strncmp
+ .text.strncpy  0x00005df4       0x64 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncpy.o)
+                0x00005df4                strncpy
+ .text.startup.register_fini
+                0x00005e58       0x14 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00005e6c       0xe8 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+                0x00005e6c                __call_exitprocs
+ .text.atexit   0x00005f54        0xc c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+                0x00005f54                atexit
+ .text.__libc_fini_array
+                0x00005f60       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+                0x00005f60                __libc_fini_array
+ .text.__retarget_lock_init
+                0x00005f94        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x00005f94                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x00005f98        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x00005f98                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x00005f9c        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x00005f9c                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x00005fa0        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x00005fa0                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x00005fa4        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x00005fa4                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x00005fa8        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x00005fa8                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x00005fac        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x00005fac                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x00005fb0        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x00005fb0                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x00005fb4        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x00005fb4                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x00005fb8        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x00005fb8                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x00005fbc       0xc0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+                0x00005fbc                __register_exitproc
+ .text._exit    0x0000607c        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+                0x0000607c                _exit
+                0x00006080                . = ALIGN (0x4)
+ *(.ctors)
+                0x00006080                . = ALIGN (0x4)
+ *(.dtors)
+                0x00006080                . = ALIGN (0x4)
+                0x00006080                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x00006080        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .init_array.00000
+                0x00006084        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+                0x00006088                __init_array_end = .
+ *(.init)
+ .init          0x00006088        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x00006088                _init
+ .init          0x0000608c        0x8 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.fini*)
+ .fini          0x00006094        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x00006094                _fini
+ .fini_array    0x00006098        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .fini          0x0000609c        0x8 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                [!provide]                PROVIDE (__etext, .)
+                [!provide]                PROVIDE (_etext, .)
+                [!provide]                PROVIDE (etext, .)
+
+.glue_7         0x000060a4        0x0
+ .glue_7        0x000060a4        0x0 linker stubs
+
+.glue_7t        0x000060a4        0x0
+ .glue_7t       0x000060a4        0x0 linker stubs
+
+.vfp11_veneer   0x000060a4        0x0
+ .vfp11_veneer  0x000060a4        0x0 linker stubs
+
+.v4_bx          0x000060a4        0x0
+ .v4_bx         0x000060a4        0x0 linker stubs
+
+.iplt           0x000060a4        0x0
+ .iplt          0x000060a4        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.rodata         0x000060a4      0x748
+ *(.rodata)
+ *(.rodata*)
+ .rodata.main.str1.4
+                0x000060a4        0xd ./main.o
+ *fill*         0x000060b1        0x3 
+ .rodata.execUart.str1.4
+                0x000060b4       0x22 ./tarefas.o
+ *fill*         0x000060d6        0x2 
+ .rodata.FreeRTOS_CLIProcessCommand.str1.4
+                0x000060d8       0xa8 ./FreeRTOS/FreeRTOS_CLI.o
+ .rodata.str1.4
+                0x00006180       0x38 ./FreeRTOS/FreeRTOS_CLI.o
+ .rodata.xHelpCommand
+                0x000061b8       0x10 ./FreeRTOS/FreeRTOS_CLI.o
+ .rodata.vTaskStartScheduler.str1.4
+                0x000061c8        0x5 ./FreeRTOS/tasks.o
+ *fill*         0x000061cd        0x3 
+ .rodata.prvCheckForValidListAndQueue.str1.4
+                0x000061d0        0x5 ./FreeRTOS/timers.o
+ *fill*         0x000061d5        0x3 
+ .rodata.xTimerCreateTimerTask.str1.4
+                0x000061d8        0x8 ./FreeRTOS/timers.o
+ .rodata.g_ppui32GPIOIntMapSnowflake
+                0x000061e0       0xd8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_pui32GPIOBaseAddrs
+                0x000062b8       0x90 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapBlizzard
+                0x00006348       0xc0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_pui32Priority
+                0x00006408       0x20 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Dii16Regs
+                0x00006428       0x14 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32PendRegs
+                0x0000643c       0x14 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Regs
+                0x00006450       0x9c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32EnRegs
+                0x000064ec       0x14 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32UnpendRegs
+                0x00006500       0x14 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pppui32XTALtoVCO
+                0x00006514      0x1b0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32VCOFrequencies
+                0x000066c4        0x8 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_sXTALtoMEMTIM
+                0x000066cc       0x30 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32Xtals
+                0x000066fc       0x6c C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_ppui32UARTIntMap
+                0x00006768       0x40 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .rodata.g_ppui32UARTIntMapSnowflake
+                0x000067a8       0x40 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .rodata._global_impure_ptr
+                0x000067e8        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+                0x000067e8                _global_impure_ptr
+
+.eh_frame       0x000067ec        0x4
+ .eh_frame      0x000067ec        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .eh_frame      0x000067ec        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+
+.data           0x20000000      0x444 load address 0x000067f0
+                0x000067f0                __data_load__ = LOADADDR (.data)
+                0x20000000                __data_start__ = .
+ *(.data)
+ .data          0x20000000        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x20000000        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x20000000                __dso_handle
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .data          0x20000004        0x0 ./main.o
+ .data          0x20000004        0x0 ./tarefas.o
+ .data          0x20000004        0x0 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .data          0x20000004        0x0 ./uart.o
+ .data          0x20000004        0x0 ./FreeRTOS/FreeRTOS_CLI.o
+ .data          0x20000004        0x0 ./FreeRTOS/croutine.o
+ .data          0x20000004        0x0 ./FreeRTOS/event_groups.o
+ .data          0x20000004        0x0 ./FreeRTOS/list.o
+ .data          0x20000004        0x0 ./FreeRTOS/queue.o
+ .data          0x20000004        0x0 ./FreeRTOS/stream_buffer.o
+ .data          0x20000004        0x0 ./FreeRTOS/tasks.o
+ .data          0x20000004        0x0 ./FreeRTOS/timers.o
+ .data          0x20000004        0x0 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .data          0x20000004        0x0 ./FreeRTOS/portable/MemMang/heap_4.o
+ .data          0x20000004        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .data          0x20000004        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .data          0x20000004        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .data          0x20000004        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .data          0x20000004        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memcpy.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncmp.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncpy.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x20000004        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.data*)
+ .data.pxLastCommandInList.6219
+                0x20000004        0x4 ./FreeRTOS/FreeRTOS_CLI.o
+ .data.xRegisteredCommands
+                0x20000008        0x8 ./FreeRTOS/FreeRTOS_CLI.o
+ .data.uxCriticalNesting
+                0x20000010        0x4 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .data._impure_ptr
+                0x20000014        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+                0x20000014                _impure_ptr
+ .data.impure_data
+                0x20000018      0x428 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000440        0x4 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+                0x20000440                __atexit_recursive_mutex
+                0x20000444                . = ALIGN (0x4)
+                0x20000444                __data_end__ = .
+
+.igot.plt       0x20000444        0x0 load address 0x00006c34
+ .igot.plt      0x20000444        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+vtable          0x20000800      0x400 load address 0x00006c34
+ vtable         0x20000800      0x400 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+
+.ARM.exidx      0x00007034        0x8
+                0x00007034                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00007034        0x8 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x0000703c                __exidx_end = .
+
+.ARM.extab      0x0000703c        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000703c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+
+.rel.dyn        0x0000703c        0x0
+ .rel.iplt      0x0000703c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.bss            0x20000c00    0x216e0
+                0x20000c00                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x20000c00        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x20000c00       0x1c c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x20000c1c        0x0 ./main.o
+ .bss           0x20000c1c        0x0 ./tarefas.o
+ .bss           0x20000c1c        0x0 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .bss           0x20000c1c        0x0 ./uart.o
+ .bss           0x20000c1c        0x0 ./FreeRTOS/FreeRTOS_CLI.o
+ .bss           0x20000c1c        0x0 ./FreeRTOS/croutine.o
+ .bss           0x20000c1c        0x0 ./FreeRTOS/event_groups.o
+ .bss           0x20000c1c        0x0 ./FreeRTOS/list.o
+ .bss           0x20000c1c        0x0 ./FreeRTOS/queue.o
+ .bss           0x20000c1c        0x0 ./FreeRTOS/stream_buffer.o
+ .bss           0x20000c1c        0x0 ./FreeRTOS/tasks.o
+ .bss           0x20000c1c        0x0 ./FreeRTOS/timers.o
+ .bss           0x20000c1c        0x0 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .bss           0x20000c1c        0x0 ./FreeRTOS/portable/MemMang/heap_4.o
+ .bss           0x20000c1c        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .bss           0x20000c1c        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .bss           0x20000c1c        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss           0x20000c1c        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .bss           0x20000c1c        0x0 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memcpy.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncmp.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncpy.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x20000c1c        0x0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.bss.*)
+ .bss.pui32Stack
+                0x20000c1c      0x200 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .bss.cOutputBuffer
+                0x20000e1c      0x200 ./FreeRTOS/FreeRTOS_CLI.o
+ .bss.pxCommand.6229
+                0x2000101c        0x4 ./FreeRTOS/FreeRTOS_CLI.o
+ .bss.pxCommand.6263
+                0x20001020        0x4 ./FreeRTOS/FreeRTOS_CLI.o
+ .bss.pxCurrentTCB
+                0x20001024        0x4 ./FreeRTOS/tasks.o
+                0x20001024                pxCurrentTCB
+ .bss.pxDelayedTaskList
+                0x20001028        0x4 ./FreeRTOS/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x2000102c        0x4 ./FreeRTOS/tasks.o
+ .bss.pxReadyTasksLists
+                0x20001030      0x12c ./FreeRTOS/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x2000115c        0x4 ./FreeRTOS/tasks.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x20001160        0x4 ./FreeRTOS/tasks.o
+ .bss.uxPendedTicks
+                0x20001164        0x4 ./FreeRTOS/tasks.o
+ .bss.uxSchedulerSuspended
+                0x20001168        0x4 ./FreeRTOS/tasks.o
+ .bss.uxTaskNumber
+                0x2000116c        0x4 ./FreeRTOS/tasks.o
+ .bss.uxTopReadyPriority
+                0x20001170        0x4 ./FreeRTOS/tasks.o
+ .bss.xDelayedTaskList1
+                0x20001174       0x14 ./FreeRTOS/tasks.o
+ .bss.xDelayedTaskList2
+                0x20001188       0x14 ./FreeRTOS/tasks.o
+ .bss.xIdleTaskHandle
+                0x2000119c        0x4 ./FreeRTOS/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x200011a0        0x4 ./FreeRTOS/tasks.o
+ .bss.xNumOfOverflows
+                0x200011a4        0x4 ./FreeRTOS/tasks.o
+ .bss.xPendingReadyList
+                0x200011a8       0x14 ./FreeRTOS/tasks.o
+ .bss.xSchedulerRunning
+                0x200011bc        0x4 ./FreeRTOS/tasks.o
+ .bss.xSuspendedTaskList
+                0x200011c0       0x14 ./FreeRTOS/tasks.o
+ .bss.xTasksWaitingTermination
+                0x200011d4       0x14 ./FreeRTOS/tasks.o
+ .bss.xTickCount
+                0x200011e8        0x4 ./FreeRTOS/tasks.o
+ .bss.xYieldPending
+                0x200011ec        0x4 ./FreeRTOS/tasks.o
+ .bss.pxCurrentTimerList
+                0x200011f0        0x4 ./FreeRTOS/timers.o
+ .bss.pxOverflowTimerList
+                0x200011f4        0x4 ./FreeRTOS/timers.o
+ .bss.xActiveTimerList1
+                0x200011f8       0x14 ./FreeRTOS/timers.o
+ .bss.xActiveTimerList2
+                0x2000120c       0x14 ./FreeRTOS/timers.o
+ .bss.xLastTime.6707
+                0x20001220        0x4 ./FreeRTOS/timers.o
+ .bss.xTimerQueue
+                0x20001224        0x4 ./FreeRTOS/timers.o
+ .bss.xTimerTaskHandle
+                0x20001228        0x4 ./FreeRTOS/timers.o
+ .bss.ucMaxSysCallPriority
+                0x2000122c        0x1 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ *fill*         0x2000122d        0x3 
+ .bss.ulMaxPRIGROUPValue
+                0x20001230        0x4 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .bss.pxEnd     0x20001234        0x4 ./FreeRTOS/portable/MemMang/heap_4.o
+ .bss.ucHeap    0x20001238    0x21000 ./FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xBlockAllocatedBit
+                0x20022238        0x4 ./FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xFreeBytesRemaining
+                0x2002223c        0x4 ./FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xMinimumEverFreeBytesRemaining
+                0x20022240        0x4 ./FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xStart    0x20022244        0x8 ./FreeRTOS/portable/MemMang/heap_4.o
+ *(COMMON)
+ COMMON         0x2002224c       0x20 ./main.o
+                0x2002224c                LD1
+                0x2002225c                LD2
+ COMMON         0x2002226c       0x10 ./uart.o
+                0x2002226c                qUART0
+                0x20022270                mutexTx0
+                0x20022274                qUART0Tx
+                0x20022278                sUART0
+ COMMON         0x2002227c       0x40 ./FreeRTOS/queue.o
+                0x2002227c                xQueueRegistry
+ COMMON         0x200222bc       0x21 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x200222bc                __lock___atexit_recursive_mutex
+                0x200222c0                __lock___arc4random_mutex
+                0x200222c4                __lock___env_recursive_mutex
+                0x200222c8                __lock___sinit_recursive_mutex
+                0x200222cc                __lock___malloc_recursive_mutex
+                0x200222d0                __lock___at_quick_exit_mutex
+                0x200222d4                __lock___dd_hash_mutex
+                0x200222d8                __lock___tz_mutex
+                0x200222dc                __lock___sfp_recursive_mutex
+                0x200222e0                . = ALIGN (0x4)
+ *fill*         0x200222dd        0x3 
+                0x200222e0                __bss_end__ = .
+
+.heap           0x200222e0        0x0
+                0x200222e0                __heap_start__ = .
+                0x200222e0                end = __heap_start__
+                0x200222e0                _end = end
+                0x200222e0                __end = end
+ *(.heap)
+                0x200222e0                __heap_end__ = .
+                0x200222e0                __HeapLimit = __heap_end__
+
+.stack          0x200222e0        0x0
+                0x200222e0                _stack = .
+                0x200222e0                __stack = .
+ *(.stack)
+START GROUP
+LOAD C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a
+LOAD c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a
+END GROUP
+START GROUP
+LOAD c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a
+LOAD c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a
+END GROUP
+START GROUP
+LOAD c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a
+LOAD c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a
+END GROUP
+LOAD c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+OUTPUT(FreeRTOS_10.0.1.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x00000076       0x39 ./main.o
+ .ARM.attributes
+                0x000000af       0x39 ./tarefas.o
+ .ARM.attributes
+                0x000000e8       0x39 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .ARM.attributes
+                0x00000121       0x39 ./uart.o
+ .ARM.attributes
+                0x0000015a       0x39 ./FreeRTOS/FreeRTOS_CLI.o
+ .ARM.attributes
+                0x00000193       0x39 ./FreeRTOS/croutine.o
+ .ARM.attributes
+                0x000001cc       0x39 ./FreeRTOS/event_groups.o
+ .ARM.attributes
+                0x00000205       0x39 ./FreeRTOS/list.o
+ .ARM.attributes
+                0x0000023e       0x39 ./FreeRTOS/queue.o
+ .ARM.attributes
+                0x00000277       0x39 ./FreeRTOS/stream_buffer.o
+ .ARM.attributes
+                0x000002b0       0x39 ./FreeRTOS/tasks.o
+ .ARM.attributes
+                0x000002e9       0x39 ./FreeRTOS/timers.o
+ .ARM.attributes
+                0x00000322       0x39 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .ARM.attributes
+                0x0000035b       0x39 ./FreeRTOS/portable/MemMang/heap_4.o
+ .ARM.attributes
+                0x00000394       0x3b C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .ARM.attributes
+                0x000003cf       0x3b C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .ARM.attributes
+                0x0000040a       0x3b C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .ARM.attributes
+                0x00000445       0x3b C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .ARM.attributes
+                0x00000480       0x3b C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .ARM.attributes
+                0x000004bb       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000004ef       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000523       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000557       0x20 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000577       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000005ab       0x20 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000005cb       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x000005ff       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000633       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000667       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000069b       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000006cf       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000703       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000737       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000076b       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x0000079f       0x22 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+.comment        0x00000000       0xee
+ .comment       0x00000000       0x7e ./main.o
+                                 0x7f (size before relaxing)
+ .comment       0x0000007e       0x7f ./tarefas.o
+ .comment       0x0000007e       0x7f ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .comment       0x0000007e       0x7f ./uart.o
+ .comment       0x0000007e       0x7f ./FreeRTOS/FreeRTOS_CLI.o
+ .comment       0x0000007e       0x7f ./FreeRTOS/croutine.o
+ .comment       0x0000007e       0x7f ./FreeRTOS/event_groups.o
+ .comment       0x0000007e       0x7f ./FreeRTOS/list.o
+ .comment       0x0000007e       0x7f ./FreeRTOS/queue.o
+ .comment       0x0000007e       0x7f ./FreeRTOS/stream_buffer.o
+ .comment       0x0000007e       0x7f ./FreeRTOS/tasks.o
+ .comment       0x0000007e       0x7f ./FreeRTOS/timers.o
+ .comment       0x0000007e       0x7f ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .comment       0x0000007e       0x7f ./FreeRTOS/portable/MemMang/heap_4.o
+ .comment       0x0000007e       0x70 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                                 0x71 (size before relaxing)
+ .comment       0x000000ee       0x71 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .comment       0x000000ee       0x71 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .comment       0x000000ee       0x71 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .comment       0x000000ee       0x71 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+
+.debug_info     0x00000000     0xc789
+ .debug_info    0x00000000      0x93b ./main.o
+ .debug_info    0x0000093b      0x971 ./tarefas.o
+ .debug_info    0x000012ac      0x18d ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .debug_info    0x00001439      0xa96 ./uart.o
+ .debug_info    0x00001ecf      0xc70 ./FreeRTOS/FreeRTOS_CLI.o
+ .debug_info    0x00002b3f       0x72 ./FreeRTOS/croutine.o
+ .debug_info    0x00002bb1     0x10a8 ./FreeRTOS/event_groups.o
+ .debug_info    0x00003c59      0xae2 ./FreeRTOS/list.o
+ .debug_info    0x0000473b     0x1e85 ./FreeRTOS/queue.o
+ .debug_info    0x000065c0     0x1959 ./FreeRTOS/stream_buffer.o
+ .debug_info    0x00007f19     0x2329 ./FreeRTOS/tasks.o
+ .debug_info    0x0000a242     0x142b ./FreeRTOS/timers.o
+ .debug_info    0x0000b66d      0x518 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_info    0x0000bb85      0xc04 ./FreeRTOS/portable/MemMang/heap_4.o
+
+.debug_abbrev   0x00000000     0x1fa9
+ .debug_abbrev  0x00000000      0x1a6 ./main.o
+ .debug_abbrev  0x000001a6      0x1c2 ./tarefas.o
+ .debug_abbrev  0x00000368       0xca ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .debug_abbrev  0x00000432      0x1fe ./uart.o
+ .debug_abbrev  0x00000630      0x29f ./FreeRTOS/FreeRTOS_CLI.o
+ .debug_abbrev  0x000008cf       0x26 ./FreeRTOS/croutine.o
+ .debug_abbrev  0x000008f5      0x319 ./FreeRTOS/event_groups.o
+ .debug_abbrev  0x00000c0e      0x217 ./FreeRTOS/list.o
+ .debug_abbrev  0x00000e25      0x338 ./FreeRTOS/queue.o
+ .debug_abbrev  0x0000115d      0x33e ./FreeRTOS/stream_buffer.o
+ .debug_abbrev  0x0000149b      0x35a ./FreeRTOS/tasks.o
+ .debug_abbrev  0x000017f5      0x2d1 ./FreeRTOS/timers.o
+ .debug_abbrev  0x00001ac6      0x205 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_abbrev  0x00001ccb      0x2de ./FreeRTOS/portable/MemMang/heap_4.o
+
+.debug_aranges  0x00000000      0x6d8
+ .debug_aranges
+                0x00000000       0x20 ./main.o
+ .debug_aranges
+                0x00000020       0x28 ./tarefas.o
+ .debug_aranges
+                0x00000048       0x38 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .debug_aranges
+                0x00000080       0x38 ./uart.o
+ .debug_aranges
+                0x000000b8       0x48 ./FreeRTOS/FreeRTOS_CLI.o
+ .debug_aranges
+                0x00000100       0x18 ./FreeRTOS/croutine.o
+ .debug_aranges
+                0x00000118       0x68 ./FreeRTOS/event_groups.o
+ .debug_aranges
+                0x00000180       0x40 ./FreeRTOS/list.o
+ .debug_aranges
+                0x000001c0      0x118 ./FreeRTOS/queue.o
+ .debug_aranges
+                0x000002d8       0xc0 ./FreeRTOS/stream_buffer.o
+ .debug_aranges
+                0x00000398      0x1b0 ./FreeRTOS/tasks.o
+ .debug_aranges
+                0x00000548       0xc0 ./FreeRTOS/timers.o
+ .debug_aranges
+                0x00000608       0x80 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_aranges
+                0x00000688       0x50 ./FreeRTOS/portable/MemMang/heap_4.o
+
+.debug_ranges   0x00000000      0x7a8
+ .debug_ranges  0x00000000       0x10 ./main.o
+ .debug_ranges  0x00000010       0x18 ./tarefas.o
+ .debug_ranges  0x00000028       0x28 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .debug_ranges  0x00000050       0x40 ./uart.o
+ .debug_ranges  0x00000090       0x38 ./FreeRTOS/FreeRTOS_CLI.o
+ .debug_ranges  0x000000c8       0x78 ./FreeRTOS/event_groups.o
+ .debug_ranges  0x00000140       0x30 ./FreeRTOS/list.o
+ .debug_ranges  0x00000170      0x1e8 ./FreeRTOS/queue.o
+ .debug_ranges  0x00000358       0xb0 ./FreeRTOS/stream_buffer.o
+ .debug_ranges  0x00000408      0x240 ./FreeRTOS/tasks.o
+ .debug_ranges  0x00000648       0xb0 ./FreeRTOS/timers.o
+ .debug_ranges  0x000006f8       0x70 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_ranges  0x00000768       0x40 ./FreeRTOS/portable/MemMang/heap_4.o
+
+.debug_line     0x00000000     0x3c43
+ .debug_line    0x00000000      0x1d8 ./main.o
+ .debug_line    0x000001d8      0x1ef ./tarefas.o
+ .debug_line    0x000003c7      0x178 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .debug_line    0x0000053f      0x2de ./uart.o
+ .debug_line    0x0000081d      0x364 ./FreeRTOS/FreeRTOS_CLI.o
+ .debug_line    0x00000b81       0x1d ./FreeRTOS/croutine.o
+ .debug_line    0x00000b9e      0x4b7 ./FreeRTOS/event_groups.o
+ .debug_line    0x00001055      0x346 ./FreeRTOS/list.o
+ .debug_line    0x0000139b      0x95a ./FreeRTOS/queue.o
+ .debug_line    0x00001cf5      0x67e ./FreeRTOS/stream_buffer.o
+ .debug_line    0x00002373      0xc01 ./FreeRTOS/tasks.o
+ .debug_line    0x00002f74      0x5b0 ./FreeRTOS/timers.o
+ .debug_line    0x00003524      0x37f ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_line    0x000038a3      0x3a0 ./FreeRTOS/portable/MemMang/heap_4.o
+
+.debug_str      0x00000000     0x2a94
+ .debug_str     0x00000000      0x565 ./main.o
+                                0x5cc (size before relaxing)
+ .debug_str     0x00000565       0x2b ./tarefas.o
+                                0x5e1 (size before relaxing)
+ .debug_str     0x00000590       0xbc ./tm4c1294ncpdt_startup_ccs_gcc.o
+                                0x25f (size before relaxing)
+ .debug_str     0x0000064c      0x128 ./uart.o
+                                0x6e3 (size before relaxing)
+ .debug_str     0x00000774      0x2f5 ./FreeRTOS/FreeRTOS_CLI.o
+                                0x8b2 (size before relaxing)
+ .debug_str     0x00000a69       0x17 ./FreeRTOS/croutine.o
+                                0x1b7 (size before relaxing)
+ .debug_str     0x00000a80      0x35c ./FreeRTOS/event_groups.o
+                                0x96a (size before relaxing)
+ .debug_str     0x00000ddc       0x92 ./FreeRTOS/list.o
+                                0x6ec (size before relaxing)
+ .debug_str     0x00000e6e      0x5d0 ./FreeRTOS/queue.o
+                                0xd36 (size before relaxing)
+ .debug_str     0x0000143e      0x463 ./FreeRTOS/stream_buffer.o
+                                0xb66 (size before relaxing)
+ .debug_str     0x000018a1      0xa00 ./FreeRTOS/tasks.o
+                               0x1207 (size before relaxing)
+ .debug_str     0x000022a1      0x426 ./FreeRTOS/timers.o
+                                0xb56 (size before relaxing)
+ .debug_str     0x000026c7      0x1fd ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                                0x458 (size before relaxing)
+ .debug_str     0x000028c4      0x1d0 ./FreeRTOS/portable/MemMang/heap_4.o
+                                0x7b6 (size before relaxing)
+
+.debug_frame    0x00000000     0x1608
+ .debug_frame   0x00000000       0x30 ./main.o
+ .debug_frame   0x00000030       0x40 ./tarefas.o
+ .debug_frame   0x00000070       0x58 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .debug_frame   0x000000c8       0x88 ./uart.o
+ .debug_frame   0x00000150       0xa8 ./FreeRTOS/FreeRTOS_CLI.o
+ .debug_frame   0x000001f8      0x110 ./FreeRTOS/event_groups.o
+ .debug_frame   0x00000308       0x6c ./FreeRTOS/list.o
+ .debug_frame   0x00000374      0x378 ./FreeRTOS/queue.o
+ .debug_frame   0x000006ec      0x31c ./FreeRTOS/stream_buffer.o
+ .debug_frame   0x00000a08      0x548 ./FreeRTOS/tasks.o
+ .debug_frame   0x00000f50      0x250 ./FreeRTOS/timers.o
+ .debug_frame   0x000011a0      0x100 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_frame   0x000012a0       0xac ./FreeRTOS/portable/MemMang/heap_4.o
+ .debug_frame   0x0000134c       0x28 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .debug_frame   0x00001374       0x2c c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .debug_frame   0x000013a0       0x38 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .debug_frame   0x000013d8       0x48 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncmp.o)
+ .debug_frame   0x00001420       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strncpy.o)
+ .debug_frame   0x00001454       0x5c c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000014b0       0x20 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .debug_frame   0x000014d0       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .debug_frame   0x00001504       0xb0 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .debug_frame   0x000015b4       0x34 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x000015e8       0x20 c:/ti/ccs920/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+
+.debug_loc      0x00000000     0x3d10
+ .debug_loc     0x00000000       0x4f ./tarefas.o
+ .debug_loc     0x0000004f       0x26 ./tm4c1294ncpdt_startup_ccs_gcc.o
+ .debug_loc     0x00000075      0x119 ./uart.o
+ .debug_loc     0x0000018e      0x298 ./FreeRTOS/FreeRTOS_CLI.o
+ .debug_loc     0x00000426      0x49d ./FreeRTOS/event_groups.o
+ .debug_loc     0x000008c3       0x62 ./FreeRTOS/list.o
+ .debug_loc     0x00000925      0xd75 ./FreeRTOS/queue.o
+ .debug_loc     0x0000169a      0xd4e ./FreeRTOS/stream_buffer.o
+ .debug_loc     0x000023e8      0xfe9 ./FreeRTOS/tasks.o
+ .debug_loc     0x000033d1      0x6ea ./FreeRTOS/timers.o
+ .debug_loc     0x00003abb       0x57 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_loc     0x00003b12      0x1fe ./FreeRTOS/portable/MemMang/heap_4.o
