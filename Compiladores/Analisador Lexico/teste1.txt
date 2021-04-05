@@ -1,0 +1,13 @@
+{ exemplo de programa } 
+read x ; 
+read y ; 
+
+soma := x + y ; 
+
+write soma 
+
+r@&d x ; 
+read y; 
+
+soma := x + 5.0 ; 
+write soma 
