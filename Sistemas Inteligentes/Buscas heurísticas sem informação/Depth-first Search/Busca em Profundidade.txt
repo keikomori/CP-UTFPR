@@ -1,0 +1,3 @@
+Algoritmo de busca em profundidade utilizando pilha e recursividade. Com busca aleatória.
+
+: Para executar o algoritmo executar arquivo deep.py
