@@ -8,13 +8,11 @@ Materiais diversos de algumas disciplinas cursadas na graduação.
 #### 	:computer: [Algoritmos](https://github.com/keikomori/CP-UTFPR/tree/master/Algoritmos) 
 * [Busca em Largura](https://github.com/keikomori/CP-UTFPR/tree/master/Algoritmos/Breadth%20First%20Search)
 * [Busca em Profundidade](https://github.com/keikomori/CP-UTFPR/tree/master/Algoritmos/Depth-first%20Search)
-
 ----------
 
 #### 	:computer: [Compiladores](https://github.com/keikomori/CP-UTFPR/tree/master/Compiladores)
 * [Analisador Lexico](https://github.com/keikomori/CP-UTFPR/tree/master/Compiladores/Analisador%20L%C3%A9xico)
 * [Analisador Sintático](https://github.com/keikomori/CP-UTFPR/tree/master/Compiladores/Analisador%20Sint%C3%A1tico)
-
 ----------
 
 #### 	:coffee: [Programação Orientada a Objetos](https://github.com/keikomori/CP-UTFPR/tree/master/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos)
