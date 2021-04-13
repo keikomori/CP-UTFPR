@@ -1,5 +1,16 @@
-# Engenharia de Computação - UTFPR Pato Branco
-Materiais diversos de algumas disciplinas cursadas no curso de Engenharia de Computação - UTFPR Pato Branco
+<h6>UTFPR Pato Branco </h6>
+<h1 align="center">Engenharia de Computação</h1>
+<h6 align="center">by Keiko Mori</h6>
+
+Materiais diversos de algumas disciplinas cursadas na graduação.
+
+#### 	:computer: [Algoritmos](https://github.com/keikomori/CP-UTFPR/tree/master/Algoritmos) 
+* [Busca em Largura](https://github.com/keikomori/CP-UTFPR/tree/master/Algoritmos/Breadth%20First%20Search)
+* [Busca em Profundidade](https://github.com/keikomori/CP-UTFPR/tree/master/Algoritmos/Depth-first%20Search)
+
+#### 	:computer: [Compiladores](https://github.com/keikomori/CP-UTFPR/tree/master/Compiladores)
+* [Analisador Lexico](https://github.com/keikomori/CP-UTFPR/tree/master/Algoritmos/Breadth%20First%20Search)
+* [Analisador Sintático](https://github.com/keikomori/CP-UTFPR/tree/master/Algoritmos/Depth-first%20Search)
 
 #### 	:computer: [Sistemas Operacionais](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Operacionais) 
 Durante o estudo dos fundamentos teóricos dos sistemas operacionais com enfase em seus aspectos, tais como, organização interna, estrutural e mecanismos de implementação foram desevolvidos alguns exercícios para o melhor entendimento do conteúdo.
