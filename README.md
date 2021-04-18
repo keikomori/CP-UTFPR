@@ -5,7 +5,7 @@
 Materiais diversos de algumas disciplinas cursadas na graduação.
 ----------
 
-#### 	:computer: [Algoritmos](https://github.com/keikomori/CP-UTFPR/tree/master/Algoritmos) 
+#### 	:desktop_computer: [Algoritmos](https://github.com/keikomori/CP-UTFPR/tree/master/Algoritmos) 
 * [Busca em Largura](https://github.com/keikomori/CP-UTFPR/tree/master/Algoritmos/Breadth%20First%20Search)
 * [Busca em Profundidade](https://github.com/keikomori/CP-UTFPR/tree/master/Algoritmos/Depth-first%20Search)
 ----------
@@ -22,14 +22,14 @@ Materiais diversos de algumas disciplinas cursadas na graduação.
 
 ----------
 
-#### 	:computer: [Sistemas Embarcados](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Embarcados) 
+#### 	:control_knobs: [Sistemas Embarcados](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Embarcados) 
 * [FreeRTOS](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Embarcados/FreeRTOS_10.0.1)
 * [HCS08](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Embarcados/Projeto_HCS08)
 * [Base Q](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Embarcados/Projeto_PSIM/baseQ)
 
 ----------
 
-#### 	:computer: [Sistemas Inteligentes](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Inteligentes) 
+#### 	:robot: [Sistemas Inteligentes](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Inteligentes) 
 * [Busca heurística com informação](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Inteligentes/Buscas%20heur%C3%ADsticas)
 * [Busca heurística sem informação](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Inteligentes/Buscas%20sem%20informa%C3%A7%C3%A3o)
 
