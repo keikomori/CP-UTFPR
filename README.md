@@ -45,6 +45,12 @@ Materiais diversos de algumas disciplinas cursadas na graduação.
 
 ----------
 
+#### 	:computer: [Sistemas Distribuídos](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Distribuidos)
+* [OpenMP](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Distribuidos/openmp-serial_parallel)
+* [Sockets - Transferência de arquivos](https://github.com/keikomori/CP-UTFPR/tree/master/Sistemas%20Distribuidos/sockets-transferencia_de_dados)
+
+----------
+
 #### :page_facing_up: License
 
 [MIT LICENSE](https://github.com/keikomori/CP-UTFPR/blob/master/LICENSE)
